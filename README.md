@@ -3,6 +3,7 @@
 <!-- ix-docs-ignore -->
 
 ![imgix logo](https://assets.imgix.net/sdk-imgix-logo.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimgix%2Fimgix-management-js.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimgix%2Fimgix-management-js?ref=badge_shield)
 
 `imgix-management-js` is a JavaScript client library for making requests against the [imgix](https://www.imgix.com/) Management API.
 
@@ -214,3 +215,7 @@ imgix.request(`sources`, {
 })
 .then(response => console.log(JSON.stringify(response, null, 2)));
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimgix%2Fimgix-management-js.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimgix%2Fimgix-management-js?ref=badge_large)
